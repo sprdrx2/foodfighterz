@@ -26,7 +26,7 @@ $famillesIngredients += ["condiments et sauce " => [
 "vinaigre de framboise",
 "vinaigre de noix",
 "vinaigre de riz",
-"vinaigre de Xérès	",
+"vinaigre de Xérès",
 ]];
 $famillesIngredients += ["divers" => [
 "agar-agar",
