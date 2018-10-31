@@ -31,7 +31,7 @@ sed -i '1i<?php $famillesIngredients = [];' $sqlf;
 sed -i "\$a?>" $sqlf;
 
 echo "Insertion liste ingrédients...";
-#./insertIngredients.php;
+./insertIngredients.php;
 
 echo "Construction recettes...";
 
@@ -40,6 +40,7 @@ for recetteF in recettes/*.recette; do
 	recetteC="tmp/recettes/$recetteF_basename.php";
 	cp "$recetteF" "$recetteC";
 	
+	sed -i 's/"/\\"/g' "$recetteC";
 	sed -i '1s/^/$titre ="/' "$recetteC";
 	sed -i '1s/$/";/' "$recetteC";
 	sed -i '1i<?php' "$recetteC";
@@ -47,11 +48,10 @@ for recetteF in recettes/*.recette; do
 	sed -i 's/===/$instructions = "/' "$recetteC";
 	sed -i 's/+++/";/' "$recetteC";
 	sed -i '3i$ingredients = [];' "$recetteC";
-	sed -i '/^i /s/^i /$ingredients+=["/' "$recetteC";
-	sed -i '/^\$ingredients+=/s/ /", "/' "$recetteC";
-	sed -i '/^\$ingredients+=/s/$/"];/' "$recetteC";
-	
+	sed -i '/^i /s/^i /array_push($ingredients,["/' "$recetteC";
+	sed -i '/^array_push($ingredients,\["/s/ /", "/' "$recetteC";
+	sed -i '/^array_push($ingredients,\["/s/$/"]);/' "$recetteC";	
 done
 
 echo "Insertion recettes...";
-#./insertRecettes.php
+./insertRecettes.php
