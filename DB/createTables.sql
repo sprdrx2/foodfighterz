@@ -44,8 +44,8 @@ CREATE TABLE composer(
 	CONSTRAINT composer_PK PRIMARY KEY (idRecette,idIngr),
 	CONSTRAINT CHK_BOOLEAN_estRemplacable CHECK (estRemplacable IN (0,1))
 
-	,CONSTRAINT composer_Recette_FK FOREIGN KEY (idRecette) REFERENCES Recette(idRecette)
-	,CONSTRAINT composer_Ingredient0_FK FOREIGN KEY (idIngr) REFERENCES Ingredient(idIngr)
+	,CONSTRAINT composer_Recette_FK FOREIGN KEY (idRecette) REFERENCES Recettes(idRecette)
+	,CONSTRAINT composer_Ingredient0_FK FOREIGN KEY (idIngr) REFERENCES Ingredients(idIngr)
 );
 
 
@@ -65,7 +65,7 @@ CREATE TABLE appartenir(
 	CONSTRAINT appartenir_PK PRIMARY KEY (idIngr,idFamille)
 
 	,CONSTRAINT appartenir_Ingredient_FK FOREIGN KEY (idIngr) REFERENCES Ingredients(idIngr)
-	,CONSTRAINT appartenir_FamilleIngredient0_FK FOREIGN KEY (idFamille) REFERENCES FamilleIngredients(idFamille)
+	,CONSTRAINT appartenir_FamilleIngredient0_FK FOREIGN KEY (idFamille) REFERENCES FamillesIngredients(idFamille)
 );
 
 
