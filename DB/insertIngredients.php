@@ -15,7 +15,7 @@ foreach ($famillesIngredients as $famille => $ingredients) {
 	$sql = "SELECT idFamille FROM FamillesIngredients WHERE LibelleF='$famille';";
 	$idFamille = mysqli_query($cnx,$sql);
 	mysql_query ($sql) or die ('Erreur SQL !');
-	// recuperation de id de famille
+
 	
 	
 	foreach ($ingredients as $ingredient) {

@@ -85,5 +85,5 @@ CREATE TABLE suggerer(
 	CONSTRAINT suggerer_PK PRIMARY KEY (idRecette,IdSaison)
 
 	,CONSTRAINT suggerer_Recette_FK FOREIGN KEY (idRecette) REFERENCES Recettes(idRecette)
-	,CONSTRAINT suggerer_Saison0_FK FOREIGN KEY (IdSaison) REFERENCES Saisonss(IdSaison)
+	,CONSTRAINT suggerer_Saison0_FK FOREIGN KEY (IdSaison) REFERENCES Saisons(IdSaison)
 );
