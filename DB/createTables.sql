@@ -24,9 +24,9 @@ CREATE TABLE Ingredients(
 CREATE TABLE Recettes(
 	idRecette  INT NOT NULL auto_increment,
 	LibelleR   VARCHAR (50) NOT NULL  ,
+	instructions varchar(1000) not null,
 	CONSTRAINT Recettes_PK PRIMARY KEY (idRecette)
 );
-
 
 
 CREATE TABLE Saisons(
@@ -42,6 +42,7 @@ CREATE TABLE composer(
 	idRecette       INT(10)  NOT NULL ,
 	idIngr          INT(10)  NOT NULL  ,
 	estRemplacable  INT (1) NOT NULL  ,
+	quantite		varchar (50),
 	CONSTRAINT composer_PK PRIMARY KEY (idRecette,idIngr),
 	CONSTRAINT CHK_BOOLEAN_estRemplacable CHECK (estRemplacable IN (0,1))
 

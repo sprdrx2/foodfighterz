@@ -1,7 +1,7 @@
 +++condiments et sauce
 câpres
 combava
-concentré de tomate
+concentre de tomates
 cornichons
 coulis de tomates
 échalotes
@@ -18,8 +18,12 @@ sauce soja
 sauce Worcestershiresel de céleri
 Tabasco
 tapenade
+tomates
 tomates confites
 tomates séchées
+vinaigre
+vinaigre balsamique
+vinaigrette
 vinaigre blanc
 vinaigre de cidre	
 vinaigre de framboise
@@ -36,7 +40,7 @@ chapelure
 colorant alimentaire
 crème de sésame
 fécule de blé
-fécule de pommes de terre
+pommes de terre
 feuille de brick
 galettes
 gélatine
@@ -140,7 +144,7 @@ ail
 beurre 
 margarine
 chocolat
-crème 
+creme fraiche
 gruyère
 emmental
 huile d'olive
@@ -149,9 +153,8 @@ lait
 miel
 oeuf
 oignons
-pâte brisée
+pâte brisee
 pâte feuilletée
-pâtes
 poivre
 pomme de terrer
 iz blanc
@@ -171,7 +174,7 @@ betterave
 bettes
 blettes
 broccoli
-carotte
+carottes
 céleri
 céleri rave
 chou 
@@ -187,9 +190,9 @@ courge
 courgette
 cresson
 endive
-épinards
+epinards
 fenouil
-fèves
+feves
 flageolet
 germes de soja
 haricots beurre
@@ -200,7 +203,7 @@ lentilles
 lentilles corail
 mâche
 maïs
-navet
+navets
 olives noires
 olives vertes
 orties
@@ -208,13 +211,15 @@ oseille
 panais
 patate douce
 petits pois
-piment frais
+piment
 pissenlits
 poireau
 pois cassés
 pois chiches
 pois gourmands
-poivron
+poivrons rouge
+poivrons vert
+poivrons jaune
 potimarron
 potiron
 pourpier
@@ -400,7 +405,7 @@ sandre
 sardines
 saumon
 saumon en boîte
-thon frais
+thon
 tourteau
 truite
 ---
@@ -440,6 +445,7 @@ saint nectaire
 Saint-Marcellin
 ---
 +++pates, riz, céréales...
+pates
 blé
 boulghour
 farine d'orge

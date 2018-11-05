@@ -65,4 +65,8 @@ for recetteF in recettes/*.recette; do
 done
 
 echo "Insertion recettes...";
-#./insertRecettes.php
+./insertRecettes.php
+
+echo "Dump BDD...";
+mysqldump -h $mysql_host -u $mysql_user -p$mysql_pwd $mysql_db > FOODFIGHTERZ.sql;
+
