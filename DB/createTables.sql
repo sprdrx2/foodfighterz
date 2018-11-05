@@ -1,35 +1,36 @@
-CREATE TABLE Ingredients(
-	idIngr    INT NOT NULL ,
-	LibelleI  VARCHAR (50) NOT NULL  ,
-	Pluriel   VARCHAR (50),
-	Alias	  VARCHAR (50),
-	CONSTRAINT Ingredients_PK PRIMARY KEY (idIngr)
-);
-
-
-CREATE TABLE Recettes(
-	idRecette  INT NOT NULL ,
-	LibelleR   VARCHAR (50) NOT NULL  ,
-	CONSTRAINT Recettes_PK PRIMARY KEY (idRecette)
-);
-
-
 CREATE TABLE FamillesIngredients(
-	idFamille  INT NOT NULL ,
+	idFamille  INT NOT NULL auto_increment,
 	LibelleF   VARCHAR (50) NOT NULL  ,
 	CONSTRAINT FamillesIngredients_PK PRIMARY KEY (idFamille)
 );
 
 
 CREATE TABLE CategoriesRecettes(
-	idCategorie  INT NOT NULL ,
+	idCategorie  INT NOT NULL auto_increment,
 	LibelleC     VARCHAR (50) NOT NULL  ,
 	CONSTRAINT CategorieRecette_PK PRIMARY KEY (idCategorie)
 );
 
+CREATE TABLE Ingredients(
+	idIngr    INT NOT NULL auto_increment,
+	LibelleI  VARCHAR (50) NOT NULL  ,
+	idFamille INT NOT NULL,
+	Pluriel   VARCHAR (50),
+	Alias	  VARCHAR (50),
+	CONSTRAINT Ingredients_PK PRIMARY KEY (idIngr),
+	CONSTRAINT Ingredients_FK_FamillesIngredients FOREIGN KEY (idFamille) REFERENCES FamillesIngredients (idFamille)
+);
+
+CREATE TABLE Recettes(
+	idRecette  INT NOT NULL auto_increment,
+	LibelleR   VARCHAR (50) NOT NULL  ,
+	CONSTRAINT Recettes_PK PRIMARY KEY (idRecette)
+);
+
+
 
 CREATE TABLE Saisons(
-	IdSaison   INT NOT NULL ,
+	IdSaison   INT NOT NULL auto_increment,
 	LibelleS   VARCHAR (50) NOT NULL  ,
 	DateDebut  DATE  NOT NULL  ,
 	DateFin    DATE  NOT NULL  ,
@@ -38,7 +39,7 @@ CREATE TABLE Saisons(
 
 
 CREATE TABLE composer(
-	idRecette       INT(10)  NOT NULL  ,
+	idRecette       INT(10)  NOT NULL ,
 	idIngr          INT(10)  NOT NULL  ,
 	estRemplacable  INT (1) NOT NULL  ,
 	CONSTRAINT composer_PK PRIMARY KEY (idRecette,idIngr),

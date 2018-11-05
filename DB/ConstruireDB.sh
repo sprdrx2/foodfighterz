@@ -8,6 +8,17 @@ mysql_cmd="mysql -h $mysql_host -u $mysql_user -p$mysql_pwd $mysql_db";
 
 tmpd='tmp'; # repertoire où l'on va compiler les ingredients et recettes
 
+cat > connexion.php << EOF
+<?php
+
+	define('MYSQL_HOST', '$mysql_host');
+	define('MYSQL_USER', '$mysql_user');
+	define('MYSQL_PASSWORD', '$mysql_pwd');
+	define('MYSQL_DB', '$mysql_db');
+
+	\$cnx = mysqli_connect(MYSQL_HOST, MYSQL_USER, MYSQL_PASSWORD, MYSQL_DB); 
+?>
+EOF
 
 echo "Drop tables...";
 $mysql_cmd < dropTables.sql;
@@ -31,7 +42,7 @@ sed -i '1i<?php $famillesIngredients = [];' $sqlf;
 sed -i "\$a?>" $sqlf;
 
 echo "Insertion liste ingrédients...";
-#./insertIngredients.php;
+./insertIngredients.php;
 
 echo "Construction recettes...";
 

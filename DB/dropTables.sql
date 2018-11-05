@@ -1,11 +1,11 @@
-drop table composer;
-drop table consommer;
-drop table appartenir;
-drop table regrouper;
-drop table suggerer;
-drop table FamillesIngredients;
-drop table CategoriesRecettes;
-drop table Saisons;
-drop table Ingredients;
-drop table Recettes;
+drop table if exists composer ;
+drop table if exists consommer ;
+drop table if exists appartenir ;
+drop table if exists regrouper ;
+drop table if exists suggerer ;
+drop table if exists Ingredients ;
+drop table if exists Recettes ;
+drop table if exists FamillesIngredients ;
+drop table if exists CategoriesRecettes ;
+drop table if exists Saisons ;
 
