@@ -2,14 +2,14 @@ CREATE TABLE FamillesIngredients(
 	idFamille  INT NOT NULL auto_increment,
 	LibelleF   VARCHAR (50) NOT NULL  ,
 	CONSTRAINT FamillesIngredients_PK PRIMARY KEY (idFamille)
-);
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 
 CREATE TABLE CategoriesRecettes(
 	idCategorie  INT NOT NULL auto_increment,
 	LibelleC     VARCHAR (50) NOT NULL  ,
 	CONSTRAINT CategorieRecette_PK PRIMARY KEY (idCategorie)
-);
+)ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 CREATE TABLE Ingredients(
 	idIngr    INT NOT NULL auto_increment,
@@ -20,14 +20,14 @@ CREATE TABLE Ingredients(
 	Alias_Pluriel	  VARCHAR(50),
 	CONSTRAINT Ingredients_PK PRIMARY KEY (idIngr),
 	CONSTRAINT Ingredients_FK_FamillesIngredients FOREIGN KEY (idFamille) REFERENCES FamillesIngredients (idFamille)
-);
+)ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 CREATE TABLE Recettes(
 	idRecette  INT NOT NULL auto_increment,
 	LibelleR   VARCHAR (50) NOT NULL  ,
 	instructions varchar(1000) not null,
 	CONSTRAINT Recettes_PK PRIMARY KEY (idRecette)
-);
+)ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 
 CREATE TABLE Saisons(
@@ -36,7 +36,7 @@ CREATE TABLE Saisons(
 	DateDebut  DATE  NOT NULL  ,
 	DateFin    DATE  NOT NULL  ,
 	CONSTRAINT Saison_PK PRIMARY KEY (IdSaison)
-);
+)ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 
 CREATE TABLE composer(
@@ -49,7 +49,7 @@ CREATE TABLE composer(
 
 	,CONSTRAINT composer_Recette_FK FOREIGN KEY (idRecette) REFERENCES Recettes(idRecette)
 	,CONSTRAINT composer_Ingredient0_FK FOREIGN KEY (idIngr) REFERENCES Ingredients(idIngr)
-);
+)ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 
 CREATE TABLE consommer(
@@ -59,7 +59,7 @@ CREATE TABLE consommer(
 
 	,CONSTRAINT consommer_Saison_FK FOREIGN KEY (IdSaison) REFERENCES Saisons(IdSaison)
 	,CONSTRAINT consommer_Ingredient0_FK FOREIGN KEY (idIngr) REFERENCES Ingredients(idIngr)
-);
+)ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 
 CREATE TABLE appartenir(
@@ -69,7 +69,7 @@ CREATE TABLE appartenir(
 
 	,CONSTRAINT appartenir_Ingredient_FK FOREIGN KEY (idIngr) REFERENCES Ingredients(idIngr)
 	,CONSTRAINT appartenir_FamilleIngredient0_FK FOREIGN KEY (idFamille) REFERENCES FamillesIngredients(idFamille)
-);
+)ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 
 CREATE TABLE regrouper(
@@ -79,7 +79,7 @@ CREATE TABLE regrouper(
 
 	,CONSTRAINT regrouper_CategorieRecette_FK FOREIGN KEY (idCategorie) REFERENCES CategoriesRecettes(idCategorie)
 	,CONSTRAINT regrouper_Recette0_FK FOREIGN KEY (idRecette) REFERENCES Recettes(idRecette)
-);
+)ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 
 CREATE TABLE suggerer(
@@ -89,4 +89,4 @@ CREATE TABLE suggerer(
 
 	,CONSTRAINT suggerer_Recette_FK FOREIGN KEY (idRecette) REFERENCES Recettes(idRecette)
 	,CONSTRAINT suggerer_Saison0_FK FOREIGN KEY (IdSaison) REFERENCES Saisons(IdSaison)
-);
+)ENGINE=InnoDB DEFAULT CHARSET=utf8;
