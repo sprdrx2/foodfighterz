@@ -34,7 +34,10 @@ sqlf="$tmpd/Ingredients.arrays.php";
 cp $ingf $sqlf;
 
 sed -i "/^[a-zA-Z]/s/^/\"/" $sqlf;
+sed -i "/^\"/s/,/\",\"/g" $sqlf;
 sed -i "/^\"/s/$/\",/" $sqlf;
+sed -i "/^\"/s/^/[/" $sqlf;
+sed -i "/^\[/s/$/],/" $sqlf;
 sed -i "/^+++/s/$/\" => [/" $sqlf;
 sed -i "/^+++/s/^+++/\$famillesIngredients += [\"/" $sqlf;
 sed -i "/^---/s/---/]];/" $sqlf;

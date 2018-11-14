@@ -1,7 +1,7 @@
 #!/usr/bin/php
 <?php
 
-include('connexion.php');
+include('symlink_bddConnect.php');
 
 foreach (glob('tmp/recettes/*.recette.php') as $recette_file) {
 	include($recette_file);
@@ -31,7 +31,7 @@ foreach (glob('tmp/recettes/*.recette.php') as $recette_file) {
 		$qte		= addslashes($qte);
 
 		// récuperation de l'id de l'ingredient
-		$query = sprintf('select idIngr from Ingredients where libelleI = \'%s\';', $ing_name);
+		$query = "select idIngr from Ingredients where LibelleI = '$ing_name' or LibelleI_Pluriel = '$ing_name' or Alias_Singulier = '$ing_name' or Alias_Pluriel = '$ing_name';";
 		$query_result = mysqli_query($cnx,$query) or die('Erreur select idIngr');
 		$idIngredient = $query_result->fetch_row()[0];
 

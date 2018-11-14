@@ -1,0 +1,9 @@
+<?php
+
+function error($message) {
+		include('vues/error.php');
+		die();
+}
+
+
+?>

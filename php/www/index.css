@@ -1,0 +1,78 @@
+/*Navbar*/
+
+/* Classe principale de la barre de navigation */
+.navbar-default {
+ /* Couleur de fond de la barre de navigation */
+ background-color: #F8F8F8;
+ border-color: #E7E7E7;
+}
+/* Couleur des titres affichés dans la barre */
+.navbar-default .navbar-brand {
+ color: #777;
+}
+/* Couleur utilisée lors du passage de la souris sur un titre de la barre */
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+ color: #5E5E5E;
+}
+/* Couleur utilisée pour les liens */
+.navbar-default .navbar-nav > li > a {
+ color: #777;
+}
+/* Couleur utilisée pour les liens lorsque la souris passe dessus */
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+ color: #333;
+}
+/* Couleur utilisée pour le lien actif (celui qui est affiché sur la page) */
+.navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a:focus {
+ color: #555;
+ background-color: #E7E7E7;
+}
+/* Couleur utilisée pour un menu dépliant lorsqu'il est ouvert */
+.navbar-default .navbar-nav > .open > a, 
+.navbar-default .navbar-nav > .open > a:hover, 
+.navbar-default .navbar-nav > .open > a:focus {
+ color: #555;
+ background-color: #D5D5D5;
+}
+
+/*FinNavbar*/
+
+
+/*Encadré du titre*/
+
+.center{
+    margin:auto;
+    float:none;  /* annule le float:left de bootstrap*/
+}
+/*marge pour les cards */
+.row {
+  margin-right: 15px;
+  margin-left: 15px;
+}
+.myrow {
+	margin-top :50px;
+
+	margin-left: 40px;
+}
+/*modification de l'écart avec les bouttons*/
+.btn-group{ 
+	margin-bottom:45px;
+}
+/*autres modifications*/
+
+.elem
+{
+    margin: 0 0 20px 50px;
+}
+.footer
+{
+    margin-top: 50px;
+}
+.form-elem
+{
+  padding : 50px 50px 50px 50px;  
+}

@@ -1,20 +1,19 @@
 <?php
-$titre ="Salade tomates fêta croutons";
+$titre ="Salade tomates feta croutons";
 $ingredients = [];
 
-array_push($ingredients,["2poignées", "mâche"]);
-array_push($ingredients,["1", "tomate"]);
-array_push($ingredients,["0", "féta"]);
-array_push($ingredients,["0", "croûtons"]);
-array_push($ingredients,["0", "huile d'Olive"]);
-array_push($ingredients,["0", "vinaigre Balsamique"]);
+array_push($ingredients,["2poignÃ©es", "mÃ¢che"]);
+array_push($ingredients,["1", "tomates"]);
+array_push($ingredients,["0", "fÃªta"]);
+array_push($ingredients,["0", "huile d'olive"]);
+array_push($ingredients,["0", "vinaigre balsamique"]);
 
 $instructions = "
-Découper la tomate et le fromage en gros dés
-Dans l'assiette, disposer la salade mâche, les tomates, les dés de fromages, des croûtons (à l'ail de préférence c'est meilleur)
+DÃ©couper la tomate et le fromage en gros dÃ©s
+Dans l'assiette, disposer la salade mÃ¢che, les tomates, les dÃ©s de fromages, des croÃ»tons (Ã  l'ail de prÃ©fÃ©rence c'est meilleur)
 Assaisonner avec un filet d'huile d'olive et du vinaigre balsamique
-C'est prêt !
+C'est prÃªt !
 
-Vous pouvez rajouter des lardons et/ou du maïs suivant les envies
+Vous pouvez rajouter des lardons et/ou du maÃ¯s suivant les envies
 "; 
 ?>

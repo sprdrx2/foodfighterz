@@ -15,8 +15,9 @@ CREATE TABLE Ingredients(
 	idIngr    INT NOT NULL auto_increment,
 	LibelleI  VARCHAR (50) NOT NULL  ,
 	idFamille INT NOT NULL,
-	Pluriel   VARCHAR (50),
-	Alias	  VARCHAR (50),
+	LibelleI_Pluriel   VARCHAR (50),
+	Alias_Singulier	  VARCHAR (50),
+	Alias_Pluriel	  VARCHAR(50),
 	CONSTRAINT Ingredients_PK PRIMARY KEY (idIngr),
 	CONSTRAINT Ingredients_FK_FamillesIngredients FOREIGN KEY (idFamille) REFERENCES FamillesIngredients (idFamille)
 );

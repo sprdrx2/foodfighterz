@@ -1,0 +1,15 @@
+Erreur SQL insert ingredient: pâte d'amandeING:pâte de pistaches
+Erreur SQL insert ingredient: confiture d'abricotING:confiture d'orange
+Erreur SQL insert ingredient: confiture d'orangeING:confiture de cassis
+Erreur SQL insert ingredient: pain d'épicesING:petit beurre
+Erreur SQL insert ingredient: sirop d'érableING:sorbet abricot
+Erreur SQL insert ingredient: sorbet abricotING:sorbet ananas
+Erreur SQL insert ingredient: sorbet ananasING:sorbet cassis
+Erreur SQL insert ingredient: huile d'oliveING:huile de tournesol
+Erreur SQL insert ingredient: bleu d'auvergneING:brie
+Erreur SQL insert ingredient: mont d'OrmorbierING:mozzarella
+Erreur SQL insert ingredient: farine d'orgeING:farine de châtaignes
+Erreur SQL insert ingredient: eau de fleur d'orangerING:eau de rose
+Erreur SQL insert ingredient: essence d'amandeING:extrait d'amande amère
+Erreur SQL insert ingredient: extrait d'amande amèreING:garam massala
+Erreur SQL insert ingredient: huile d'arachideING:huile de noix

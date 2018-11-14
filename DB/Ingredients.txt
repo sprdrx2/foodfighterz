@@ -1,530 +1,530 @@
 +++condiments et sauce
-câpres
-combava
-concentre de tomates
-cornichons
-coulis de tomates
-échalotes
-encre de seiche
-gingembre	
-gomasio
-harissa
-Ketchup
-mayonnaise
-miso
-moutarde
-sauce béarnaise
-sauce soja	
-sauce Worcestershiresel de céleri
-Tabasco
-tapenade
-tomates
-tomates confites
-tomates séchées
-vinaigre
-vinaigre balsamique
-vinaigrette
-vinaigre blanc
-vinaigre de cidre	
-vinaigre de framboise
-vinaigre de noix
-vinaigre de riz
-vinaigre de Xérès	
+câpre, câpres,,
+combava, combavas,,
+concentré de tomate, concentré de tomates,,
+cornichon, cornichons,,
+coulis de tomate, coulis de tomates,,
+échalote, échalotes,,
+encre de seiche, encre de seiches,,
+gingembre,,
+gomasio,,
+harissa,,
+ketchup,,
+mayonnaise,,
+miso,,
+moutarde,,
+sauce béarnaise,,
+sauce soja,,
+sauce worcestershire,,
+sel de céleri,,
+tabasco,,
+tapenade, tapenades,,
+tomate, tomates,,
+tomate confite, tomates confites,,
+tomate séchée, tomates séchées,,
+vinaigre,,
+vinaigre balsamique,,
+vinaigrette,,
+vinaigre blanc,,
+vinaigre de cidre,,	
+vinaigre de framboise, vinaigre de framboises,,
+vinaigre de noix,,
+vinaigre de riz,,
+vinaigre de xérès,,
 ---
 +++divers
-agar-agar
-bicarbonate de soude
-biscottes
-bouillon cube
-chapelure
-colorant alimentaire
-crème de sésame
-fécule de blé
-pommes de terre
-feuille de brick
-galettes
-gélatine
-levure chimique
-levure de bière	
-levure de boulanger
-maïzena
-pain
-pain à hamburgers
-pain de mie
-pâte d'amandes
-pâte de pistaches
-pâte sablée	
-praliné
-tacos
-tapioca
-tofu	
+agar-agar,,
+bicarbonate de soude,,
+biscottes, biscotte,,
+bouillon cube, bouillons cubes,,
+chapelure,,
+colorant alimentaire, colorants alimentaires,,
+crème de sésame, crème de sésames,,
+fécule de blé,,
+pomme de terre, pommes de terre, patate, patates,,
+feuille de brick, feuilles de brick,, 
+galette, galettes,,
+gélatine, feuille de gélatine, feuilles de gélatine,,
+levure chimique, levures chimiques,,
+levure de bière, levures de bière,,
+levure de boulanger, levures de boulanger,,
+maïzena,,
+pain, pains,,
+pain à burgers, pains à burgers, pain à burger, pains à burger,,
+pain de mie,,
+pâte d'amande, pâte d'amandes, pâtes d'amande, pâtes d'amandes,,
+pâte de pistaches, pâte de pistache, pâtes de pistache, pâtes de pistaches,,
+pâte sablée, pâtes sablées,,
+praliné, pralinés,,
+tacos,,
+tapioca,,
+tofu,,
 ---
 +++plantes aromatiques
-algues wakamé
-aneth
-anis
-badiane
-baies de genévrier
-basilic
-basilic thaï
-cacao	
-café
-carvi
-cerfeuil
-ciboulette
-citronnelle
-coriandre
-estragon
-herbes de Provence	
-kombu
-laurier
-lavande
-menthe
-origan
-pavot
-persil
-romarin	
-sauge
-sésame
-thé
-thé Matcha
-thym
-verveine
+algue wakamé, algues wakamé, ,
+aneth,,
+anis,,
+badiane,,
+baie de genévrier, baies de genévrier, ,
+basilic,,
+basilic thaï,,
+cacao, poudre de cacao,,
+café, cafés,,
+carvi,,
+cerfeuil,,
+ciboulette,,
+citronnelle,,
+coriandre,,
+estragon,,
+herbe de Provence, herbes de Provence, ,
+kombu,,
+laurier, lauriers, feuille de laurier, feuilles de lauriers, 
+lavande,,
+menthe,,
+origan,,
+pavot, pavots, graine de pavot, graines de pavots,,
+persil,,
+romarin,,
+sauge,,
+sésame, sésames, graine de sésame, graines de sésames,, 
+thé,,
+thé matcha,,
+thym,,
+verveine,,
 ---
 +++le sucré 
-beurre de cacahuètes
-boudoirs
-caramel
-chocolat blanc
-compote de pommes
-confiture d'abricots
-confiture d'oranges
-confiture de cassis
-confiture de figues
-confiture de fraises
-confiture de framboises
-confiture de groseilles
-confiture de lait
-confiture de mûres
-confiture de myrtilles
-confiture de pêches
-confiture de prunes
-crème de marrons
-glace banane
-glace café
-glace caramel
-glace chocolat
-glace fraise
-glace framboise
-glace menthe-chocolat
-glace noix de cocoglace pistache
-glace pralinée
-glace rhum-raisins
-glace vanille
-meringues
-Nutella
-pain d'épices
-petits beurres
-sirop d'érable
-sorbet abricot
-sorbet ananas
-sorbet cassis
-sorbet citron
-sorbet fruits de la passion
-sorbet mangue
-sorbet melon
-Speculoos
-sucre glace
-sucre perlé
-sucre roux
-sucre vanillé
+beurre de cacahuète, beurre de cacahuètes,,
+boudoir, boudoirs,,
+caramel, caramels,,
+chocolat blanc, chocolats blancs,,
+compote de pommes, compotes de pommes, compote de pomme, compotes de pomme,,
+confiture d'abricot, confiture d'abricots,,
+confiture d'orange, confiture d'oranges,,
+confiture de cassis,,
+confiture de figue, confiture de figues,,
+confiture de fraise, confiture de fraises,,
+confiture de framboise, confiture de framboises,,
+confiture de groseille, confiture de groseilles,,
+confiture de lait,,
+confiture de mûre, confiture de mûres,,
+confiture de myrtille, confiture de myrtilles,,
+confiture de pêche, confiture de pêches,,
+confiture de prune, confiture de prunes,,
+crème de marron, crème de marrons,,
+glace banane,, glace à la banane,,
+glace café,, glace au café,,
+glace caramel,, glace au caramel,,
+glace chocolat,, glace au chocolat,,
+glace fraise,, glace à la fraise,,
+glace framboise,, glace à la framboise,,
+glace menthe-chocolat,,
+glace noix de coco,, glace à la noix de coco,,
+glace pistache,, glace à la pistache,,
+glace pralinée,, glace au praline, glace aux pralines,,
+glace rhum-raisin, glace rhum-raisins,,
+glace vanille,, glace à la vanille,,
+meringue, meringues,,
+nutella,,
+pain d'épices, pain d'épice,,
+petit beurre, petits beurre, petit beurres, petits beurres,,
+sirop d'érable, sirop d'érables,,
+sorbet abricot, sorbet à l'abricot,,
+sorbet ananas, sorbet à l'ananas,,
+sorbet cassis, sorbet au cassis,,
+sorbet citron, sorbet au citron,,
+sorbet fruits de la passion, sorbet aux fruits de la passion,,
+sorbet mangue, sorbet à la mange,,
+sorbet melon, sorbet au melon,,
+speculos,,
+sucre glace,,
+sucre perlé,,
+sucre roux,,
+sucre vanillé,,
 ---
 +++les incontournables
-ail
-beurre 
-margarine
-chocolat
-creme fraiche
-gruyère
-emmental
-huile d'olive
-huile de tournesol
-lait
-miel
-oeuf
-oignons
-pâte brisee
-pâte feuilletée
-poivre
-pomme de terrer
-iz blanc
-sel
-sucre
-tomate(s)
-vinaigre balsamique
-vinaigre de vin
-yaourt nature
+ail, ails,,
+beurre, beurres,,
+margarine, margarines,,
+chocolat, chocolats,,
+crème fraiche, crèmes fraiches,, 
+gruyère,,
+emmental,,
+huile d'olive, huile d'olives,,
+huile de tournesol, huile de tournesols,,
+lait,,
+miel,,
+oeuf, oeufs,,
+oignons, oignon,,
+pâte brisée, pâtes brisées,,
+pâte feuilletée, pâtes feuilletées,,
+poivre,,
+pomme de terre, pommes de terre, patate, patates,,
+riz blanc,,
+sel,,
+sucre, sucres,,
+tomate, tomates,,
+vinaigre balsamique,,
+vinaigre de vin,,
+yaourt nature, yaourts natures,,
 ---
 +++légumes et tubercules
-artichaut
-asperge
-aubergine
-avocat
-betterave
-bettes
-blettes
-broccoli
-carottes
-céleri
-céleri rave
-chou 
-chou chinois
-chou fractal
-chou rouge
-chou-fleur
-choux de Bruxelles
-citrouille
-coeur de palmier
-concombre
-courge
-courgette
-cresson
-endive
-epinards
-fenouil
-feves
-flageolet
-germes de soja
-haricots beurre
-haricots blancs
-haricots rouges
-haricots verts
-lentilles
-lentilles corail
-mâche
-maïs
-navets
-olives noires
-olives vertes
-orties
-oseille
-panais
-patate douce
-petits pois
-piment
-pissenlits
-poireau
-pois cassés
-pois chiches
-pois gourmands
-poivrons rouge
-poivrons vert
-poivrons jaune
-potimarron
-potiron
-pourpier
-radis
-radis noir
-roquette
-rutabaga
-salade rouge
-salade verte
-tomate verte
-topinambour
+artichaut, artichauts,,
+asperge, asperges,,
+aubergine, aubergines,,
+avocat, avocats,,
+betterave, betteraves,,
+bette, blette, bettes, blettes,,
+broccoli, brocolis, brocoli, broccolis,,
+carotte, carottes,,
+céleri,,
+céleri rave,,
+chou, choux,,
+chou chinois, choux chinois,,
+chou fractal, choux fractals,,
+chou rouge, choux rouges,,
+chou-fleur, choux-fleurs,,
+chou de Bruxelles, choux de Bruxelles,,
+citrouille, citrouilles,,
+coeur de palmier, coeurs de palmier,,
+concombre, concombres,,
+courge, courges,,
+courgette, courgettes,,
+cresson, cressons,,
+endive, endives,,
+epinards,,
+fenouil,,
+fève, fèves,,
+flageolet, flageolets,,
+germe de soja, germes de soja,,
+haricot beurre,haricots beurres,,
+haricot blanc, haricots blancs,,
+haricot rouge, haricots rouges,,
+haricot vert, haricots verts,,
+lentille, lentilles,,
+lentille corail, lentilles corail,,
+mâche, mâches,,
+maïs,,
+navet, navets,,
+olive noire, olives noires,,
+olive verte, olives vertes,,
+orties,,
+oseille, oseilles,,
+panais,,
+patate douce, patates douces,,
+petits pois,,
+piment, piments,,
+pissenlit, pissenlits,,
+poireau, poireaux,,
+pois cassés,,
+pois chiches,,
+pois gourmands,,
+poivron rouge, poivrons rouges,,
+poivron vert, poivrons verts,,
+poivron jaune, poivrons jaunes,,
+potimarron, potimarrons,,
+potiron, potirons,,
+pourpier, pourpiers,,
+radis,,
+radis noir, radis noirs,,
+roquette, roquettes,,
+rutabaga, rutabagas,,
+salade rouge, salades rouges,,
+salade verte, salades vertes,,
+tomate verte, tomates vertes,,
+topinambour, topinambours,,
 ---
 +++champignons
-bolets
-cèpes
-champignons de Paris
-champignons noirs
-chanterelles
-coulemelles
-girolles
-lactaires sanguins
-morilles
-pieds de mouton
-pleurottes
-shitake
-trompettes de la mort
-truffes
-vesses de loup	
+bolet, bolets,,
+cèpe, cèpes,,
+champignon de Paris, champignons de Paris,,
+champignon noirs, champignons noir,,
+chanterelle, chanterelles,,
+coulemelle, coulemelles,,
+girolle, girolles,,
+lactaire sanguin, lactaires sanguins,,
+morille, morilles,,
+pied de mouton, pieds de mouton,,
+pleurotte, pleurottes,,
+shitake, shitakes,,
+trompette de la mort, trompettes de la mort,,
+truffe, truffes,,
+vesse de loup, vesses de loup,,
 ---
 +++fruits et fruits secs
-abricot
-abricots secs
-airelles
-amandes
-ananas
-banane
-cacahuètes
-cassis
-cerises
-châtaignes
-citron
-citron vert
-clémentine
-coing
-dattes
-figues
-fraises
-framboises
-fruit de la passion
-fruits confits
-fruits rouges
-goyave
-grenade
-groseilles
-kiwi
-litchies
-mangue
-marrons
-melon
-mirabelles
-mûres
-myrtilles
-nèfles
-noisettes
-noix
-noix de cajou
-noix de coco
-noix de macadamia
-noix de pécan
-orange
-pamplemousse
-papaye
-pastèque
-pêche
-pignons de pin
-pistaches
-poire
-pomme
-pruneaux
-prunes
-raisin blanc
-raisin noir
-raisins secs
-rhubarbe	
+abricot, abricots,,
+abricot sec, abricots sec, abricot secs, abricots secs,,
+airelle, airelles,,
+amande, amandes,,
+ananas,,
+banane, bananes,,
+cacahuète, cacahuètes,,
+cassis,,
+cerise, cerises,,
+châtaigne, châtaignes,,
+citron, citrons,,
+citron vert, citrons vert, citron verts, citrons verts,,
+clémentine, clémentines,,
+coing, coings,,
+datte, dattes,,
+figue, figues,,
+fraise, fraises,,
+framboise, framboises,,
+fruit de la passion, fruits de la passion,,
+fruit confit, fruits confit, fruit confits, fruits confits,,
+fruit rouge, fruits rouge, fruit rouges, fruits rouges,,
+goyave, goyaves,,
+grenade, grenades,,
+groseille, groseilles,,
+kiwi, kiwis,,
+litchi, litchies,,
+mangue, mangues,,
+marron, marrons,,
+melon, melons,,
+mirabelle, mirabelles,,
+mûre, mûres,,
+myrtille, myrtilles,,
+nèfle, nèfles,,
+noisette, noisettes,,
+noix,,
+noix de cajou,,
+noix de coco,,
+noix de macadamia,,
+noix de pécan,,
+orange, oranges,,
+pamplemousse, pamplemousses,,
+papaye, papayes,,
+pastèque, pastèques,,
+pêche, pêches,,
+pignon de pin, pignons de pin,,
+pistache, pistaches,,
+poire, poires,,
+pomme, pommes,,
+pruneau, pruneaux,,
+prune, prunes,,
+raisin blanc, raisins blancs, raisin secs, raisins blancs,,
+raisin noir, raisin noirs, raisins noir, raisins noirs,,
+raisin sec, raisins secs, raisin secs, raisins secs,,
+rhubarbe, rhubarbes,,
 ---
 +++viandes, oeufs, charcuteries
-agneau
-andouille
-andouillette
-bacon
-boeuf
-boudin blanc
-boudin noir
-caille
-caillette
-canard
-chorizo
-crêpine
-dindees
-cargots
-foie de génisse
-foie de veau
-foie gras
-foies de volaille
-gésiers
-jambon blanc
-jambon cru
-jambon fumé
-lapin
-lard
-lardons
-merguez
-moutono
-eufs de caille
-os à moëlle
-petit salé
-pied de veau
-pigeon
-porc
-poulet
-quenelles
-rognons
-saucisse
-saucisson
-tripes
-veau
+agneau, agneaux,,
+andouille, andouilles,,
+andouillette, andouillettes,,
+bacon,,
+boeuf, boeufs,,
+boudin blanc, boudins blanc, boudins blancs, boudin blancs,,
+boudin noir, boudins noir, boudins noirs, boudin noirs,,
+caille, cailles,,
+caillette, caillettes,,
+canard, canards,,
+chorizo,,
+crépine, crépines,,
+dinde, dindes,,
+escargot, escargots,,
+foie de génisse, foies de génisse, foies de génisses, foie de génisses,,
+foie de veau, foies de veau, foies de veaux, foie de veaux,,
+foie gras, foies gras,,
+foie de volaille, foies de volaille, foie de volailles, foies de volailles,,
+gésier, gésiers,,
+jambon blanc, jambons blanc, jambon blancs, jambons blancs,,
+jambon cru, jambons cru, jambon crus, jambons crus,,
+jambon fumé, jambons fumé, jambon fumés, jambons fumés,,
+lapin, lapins,,
+lard, lards,,
+lardon, lardons,,
+merguez,,
+mouton, moutons,,
+oeuf de caille, oeufs de caille, oeufs de cailles, oeufs de cailles,,
+os à moelle, os à moelles,,
+petit salé, petits salé, petit salés, petits salés,,
+pied de veau, pieds de veau, pieds de veaux, pied de veaux,,
+pigeon, pigeons,,
+porc, porcs,,
+poulet, poulets,,
+quenelle, quenelles,,
+rognon, rognons,,
+saucisse, saucisses,,
+saucisson, saucissons,,
+tripe, tripes,,
+veau, veaux,,
 ---
 +++poissons, coquillages et crustacés
-aigle fin
-amandes de mer
-anchois au sel
-anchois frais
-anguille
-araignée de mer
-bar
-barbu
-bonite
-brochet
-cabillaud
-calamars
-carpe
-colin
-congre
-coques
-crevettes
-daurade
-écrevisses
-encornet
-séperlans
-espadon
-étrilles
-flétan
-fumet de poisson
-gambas
-haddock
-hareng
-homard
-huîtres
-langouste
-langoustines
-lieu
-limande
-lotte
-loup de mer
-maquereau
-merlan
-merlu
-mérou
-morue
-moules
-noix de pétoncle
-oeufs de lump
-palourdes
-panga
-perche
-poulpe
-poutargue
-rouget
-rouille
-roussette
-Saint Jacques
-sandre
-sardines
-saumon
-saumon en boîte
-thon
-tourteau
-truite
+aiglefin, églefin, aiglefins, églefins,,
+amande de mer, amandes de mer,,
+anchois au sel,,
+anchois frais,,
+anguille, anguilles,,
+araignée de mer, araignées de mer,,
+bar, bars,,
+barbu, barbus, barbeau, barbeaux,,
+bonite, bonites,,
+brochet, brochets,,
+cabillaud, cabillauds,,
+calamar, calmar, calamars, calmars,,
+carpe, carpes,,
+colin, colins,,
+congre, congres,,
+coque, coques,,
+crevette, crevettes,,
+daurade, daurades,,
+écrevisse, écrevisses,,
+encornet, encornets,,
+éperlan, éperlans,,
+espadon, espadons,,
+étrille, étrilles,,
+flétan, flétans,,
+fumet de poisson, fumet de poissons,,
+gamba, gambas,,
+haddock, haddocks,,
+hareng, harengs,,
+homard, homards,,
+huître, huîtres,,
+langouste, langoustes,,
+langoustine, langoustines,,
+lieu, lieus,,
+limande, limandes,,
+lotte, lottes,,
+loup de mer, loups de mer,,
+maquereau, maquereaux,,
+merlan, merlans,,
+merlu, merlus,,
+mérou, mérous,,
+morue, morues,,
+moule, moules,,
+noix de pétoncle,,
+oeuf de lump, oeufs de lump,,
+palourde, palourdes,,
+panga, pangas,,
+perche, perches,,
+poulpe, poulpes,,
+poutargue, poutargues,,
+rouget, rougets,,
+rouille,,
+roussette, roussettes,,
+saint-jacques, saint jacques,,
+sandre, sandres,,
+sardine, sardines,,
+saumon, saumons,,
+saumon en boîte, saumons en boîte, saumons en boîtes, saumon en boîtes,,
+thon, thons,,
+tourteau, tourteaux,,
+truite, truites,,
 ---
 +++produits laitiers
-Beaufort
-bleu d'Auvergne
-Brie
-camembert
-Cantal
-cheddar
-chèvre
-brebis
-Comté
-crème Chantilly
-crème de soja
-faisselle
-feta
-fromage blanc
-fromage frais
-Gorgonzola
-gouda
-lait concentré
-lait de coco
-lait de soja
-lait fermenté
-Mascarpone
-mimolette
-Mont d'Ormorbier
-mozzarella
-Munster
-parmesan
-petits suisses
-raclette
-reblochon
-Roquefort
-saint nectaire
-Saint-Marcellin
+beaufort,,
+bleu d'auvergne,,
+brie,,
+camembert,,
+cantal,,
+cheddar,,
+chèvre,,
+brebis,,
+comté,,
+crème chantilly,,
+crème de soja,,
+faisselle,,
+feta,,
+fromage blanc, fromages blanc, fromage blancs, fromages blancs,,
+fromage frais, fromages frais,,
+gorgonzola,,
+gouda,,
+lait concentré,,
+lait de coco,,
+lait de soja,,
+lait fermenté,,
+mascarpone,,
+mimolette,,
+mont d'Ormorbier,,
+mozzarella,,
+munster,,
+parmesan,,
+petit suisse, petits suisses, petit suisses,,
+raclette,,
+reblochon,,
+roquefort,,
+saint-nectaire, saint nectaire,,
+saint-marcellin, saint marcellin,,
 ---
 +++pates, riz, céréales...
-pates
-blé
-boulghour
-farine d'orge
-farine de châtaignes
-farine de froment
-farine de maïs
-farine de noix de coco
-farine de petit épeautre
-farine de pois chiches
-farine de quinoa
-farine de riz
-farine de sarrazin
-farine de seigle
-galettes de riz
-galettes de riz
-graines de courge
-graines de tournesol
-lasagnes
-mil
-müesli
-nouilles chinoises
-pâtes de riz
-quinoa
-riz complet
-sarrazin
-semoule de blé
-semoule de maïs
-vermicelles de riz
+pate, pates,,
+blé,,
+boulghour,,
+farine d'orge,,
+farine de châtaignes, farine de châtaigne,,
+farine de froment,,
+farine de maïs,,
+farine de noix de coco,,
+farine de petit épeautre,,
+farine de pois chiches, farine de pois chiche,,
+farine de quinoa,,
+farine de riz,,
+farine de sarrazin, farine de sarrasin,,
+farine de seigle,,
+galette de riz, galettes de riz,,
+graine de courge, graines de courge, graines de courges,,
+graine de tournesol, graines de tournesol, graines de tournesols,,
+lasagne, lasagnes,,
+mil,,
+müesli,,
+nouille chinoise, nouilles chinoises, nouille chinoises,,
+pâte de riz, pâtes de riz,,
+quinoa,,
+riz complet,,
+sarrazin, sarrasin,,
+semoule de blé,,
+semoule de maïs,,
+vermicelle de riz, vermicelles de riz,,
 ---
 +++épices et arômes
-cannelle
-cardamome
-clous de girofle
-colombo
-cumin
-curcuma
-curry
-eau de fleurs d'oranger
-eau de rose
-essence d'amandes
-extrait d'amandes amères
-garam massala
-kari gosse
-noix de muscade
-paprika
-piment
-safran
-vanille
+cannelle,,
+cardamome,,
+clou de girofle, clous de girofle,, 
+colombo,,
+cumin,,
+curcuma,,
+curry,,
+eau de fleur d'oranger, eau de fleurs d'oranger, eau de fleurs d'orangers,,
+eau de rose, eau de roses,,
+essence d'amande, essence d'amandes,,
+extrait d'amande amère, extrait d'amandes amères, extrait d'amande amères, extrait d'amandes amère,,
+garam massala, garam masala,,
+kari gosse,,
+noix de muscade, noix de muscades,,
+paprika,,
+piment, piments,,
+safran, safrans,,
+vanille, vanilles,,
 ---
 +++alcools et boissons
-armagnac
-bière
-calvados
-champagne
-cidre
-cognac
-cointreau
-eau de vie
-eau gazeuse
-Grand Marnier
-Kirsch
-madère
-Martini
-muscat
-pastis
-porto
-rhum
-saké
-vin blanc
-vin rouge
-vodka
-whisky
+armagnac,,
+bière, bières,,
+calvados,,
+champagne, champagnes,,
+cidre, cidres,,
+cognac, cognacs,,
+cointreau,,
+eau de vie,,
+eau gazeuse, eaux gazeuse, eaux gazeuses, eau gazeuses,,
+grand marnier,,
+kirsch,,
+madère,,
+martini,,
+muscat, muscats,,
+pastis,,
+porto, portos,,
+rhum, rhums,,
+saké, sakés,,
+vin blanc, vins blanc, vin blancs, vins blancs,,
+vin rouge, vins rouge, vin rouges, vins rouges,,
+vodka, vodkas,,
+whisky, whiskey, whiskys,,
 ---
-+++matières graces
-graisse de canard
-huile d'arachide
-huile de noix
-huile de palme
-huile de pépins de raisin
-huile de sésame	
-saindoux
++++matières grasses
+graisse de canard, graisses de canard, graisses de canards, graisse de canards,,
+huile d'arachide, huiles d'arachide, huile d'arachides, huiles d'arachides,,
+huile de noix, huiles de noix,,
+huile de palme, huiles de palme,,
+huile de pépins de raisin, huile de pépin de raisin, huile de pépins de raisins, huile de pépin de raisins,,
+huile de sésame, huiles de sésame,,
+saindoux,,
 ---
